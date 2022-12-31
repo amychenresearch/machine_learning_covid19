@@ -1,5 +1,5 @@
 # Contrastive Machine Learning on COVID-19 Virus
-**Amy Chen**'s research project on allosteric regulation of **SARS-CoV-2 spike protein** using **contrastive machine learning** 
+**Amy X. Chen**'s research project on allosteric regulation of **SARS-CoV-2 spike protein** using **contrastive machine learning** 
 
 A preprint is avaiable for download [here](machine_learning_manuscript.pdf).
 
